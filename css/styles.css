@@ -3,6 +3,7 @@
 }
 .body {
   background-color: yellow;
+  height: 155vh;
 }
 .header {
   background-color: blue;
@@ -29,4 +30,12 @@
 }
 .bottom {
   visibility: hidden;
+}
+.green {
+  background-color: green;
+  height: 200px;
+}
+.red {
+  background-color: red;
+  height: 200px;
 }
